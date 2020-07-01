@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's the walkthrough of implemented user stories:
 
 <img src='Flixster App Gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
